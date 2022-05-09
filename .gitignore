@@ -1,0 +1,4 @@
+**/node_modules
+server/coverage
+server/dist
+web/dist
