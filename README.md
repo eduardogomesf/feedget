@@ -46,9 +46,13 @@ First install all dependencies
 npm install
 ````
 
-Run
+Run the application
 ```bash
 npm run dev
+```
+Access the application on your browser using the URL below
+```text
+http://localhost:3000
 ```
 
 All set. Now you can start sending feedbacks.
