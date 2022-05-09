@@ -25,7 +25,17 @@ npm install
 ````
 Create a .env file and fill the environment variables (use the .env.example file as example) and then
 
-Run
+Update prisma models
+```bash
+npx prisma generate
+```
+
+Run migrations on database
+```bash
+npx prisma migrate dev
+```
+
+Run the application
 ```bash
 npm run dev
 ```
