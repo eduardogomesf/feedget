@@ -1,4 +1,5 @@
 **/node_modules
-server/coverage
-server/dist
-web/dist
+**/dist
+**/.env
+**/coverage
+server/prisma/dev.db
